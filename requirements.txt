@@ -1,7 +1,0 @@
-pandas
-openpyxl
-matplotlib
-wordcloud
-plotly
-seaborn
-numpy
